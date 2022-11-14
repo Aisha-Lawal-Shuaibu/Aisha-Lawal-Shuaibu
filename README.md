@@ -3,9 +3,7 @@
 
 - 🔭 I’m currently working on **Machine Learning and Data Science Projects**
 
-- 🌱 I’m currently learning **Computer Vision for production**
-
-- 👯 I’m looking to collaborate on **Computer Vision and Data Science Projects for Production**
+- 👯 I’m looking to collaborate on **Data Science Projects for Production**
 
 - 👨‍💻 All of my projects are available at [my repository](https://github.com/code-hack-dot-com?tab=repositories)
 
